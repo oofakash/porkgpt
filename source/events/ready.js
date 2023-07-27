@@ -6,7 +6,7 @@ module.exports = {
 	execute(client) {
 
 		let status = {
-			name: 'with Puffy',
+			name: 'with Puffy!',
 			type: ActivityType.Playing
 		}
 
